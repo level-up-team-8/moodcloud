@@ -4,7 +4,7 @@
   "description": "- [View the tutorial](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript)",
   "main": "scripts.js",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   },
   "devDependencies": {},
   "scripts": {
